@@ -1,0 +1,11 @@
+# discourse-sso-plugin/locales/en.yml
+en:
+  sso_plugin:
+    wechat_login: "Login with WeChat"
+    sms_login: "SMS Login"
+    send_sms: "Send Verification Code"
+    verify_code: "Verify Code"
+    phone_placeholder: "Enter your phone number"
+    code_placeholder: "Enter 6-digit code"
+    binding_success: "WeChat payment binding successful!"
+    binding_failed: "Binding failed, please try again"
